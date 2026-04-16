@@ -1,7 +1,7 @@
 # SmartCampus System (Java Core Assessment)
 
-**Author:** [Your Name]
-**Date:** [Submission Date]
+**Author:** [Asmit Rawat]
+**Date:** [16-04-2026]
 
 ## 1. Problem Statement
 The objective of this project is to build a Smart Campus Management System that handles students, courses, and asynchronous operations. The system must meet all Object-Oriented Programming (OOP) requirements, handle exceptions correctly, use Collections effectively (e.g., `HashMap`, `ArrayList`), and implement Multithreading for processing registrations in the background.
